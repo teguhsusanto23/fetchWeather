@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "test": "node ./node_modules/mocha/bin/mocha"
+    },
+    "dependencies": {
+        "axios": "^0.19.2"
+    },
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^7.2.0"
+    }
+}
